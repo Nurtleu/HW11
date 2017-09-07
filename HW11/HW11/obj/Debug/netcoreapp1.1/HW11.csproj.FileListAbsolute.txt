@@ -1,0 +1,9 @@
+F:\C#\HW11\HW11\bin\Debug\netcoreapp1.1\HW11.deps.json
+F:\C#\HW11\HW11\bin\Debug\netcoreapp1.1\HW11.runtimeconfig.json
+F:\C#\HW11\HW11\bin\Debug\netcoreapp1.1\HW11.runtimeconfig.dev.json
+F:\C#\HW11\HW11\obj\Debug\netcoreapp1.1\HW11.csprojResolveAssemblyReference.cache
+F:\C#\HW11\HW11\obj\Debug\netcoreapp1.1\HW11.AssemblyInfo.cs
+F:\C#\HW11\HW11\bin\Debug\netcoreapp1.1\HW11.dll
+F:\C#\HW11\HW11\bin\Debug\netcoreapp1.1\HW11.pdb
+F:\C#\HW11\HW11\obj\Debug\netcoreapp1.1\HW11.dll
+F:\C#\HW11\HW11\obj\Debug\netcoreapp1.1\HW11.pdb
